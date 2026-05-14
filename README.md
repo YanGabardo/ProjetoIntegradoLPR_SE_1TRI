@@ -37,4 +37,4 @@ Coloque aqui o link do vídeo no YouTube:
 
 ## Autor
 
-Yan Souza
+Yan Gabardo, Yan Martins
